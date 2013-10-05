@@ -1,2 +1,2 @@
--platform_packages_providers_MediaProvider
+platform_packages_providers_MediaProvider
 ==========================================
